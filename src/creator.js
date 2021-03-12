@@ -1,5 +1,5 @@
 let handler = function (m) {
-  // this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
+  // this.sendContact(m.chat, '6285755846460', 'Nurutomo', m)
   this.sendContact(m.chat, '0', '085755846460', m)
 }
 handler.help = ['owner', 'creator']
